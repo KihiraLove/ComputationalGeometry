@@ -4,7 +4,7 @@ from functions import determine_visibility
 ###
 # author: doker24, Domonkos Kertész
 # Computational geometry, fall 2024
-#
+# also available: https://github.com/KihiraLove/ComputationalGeometry
 ###
 
 ### Important ###
